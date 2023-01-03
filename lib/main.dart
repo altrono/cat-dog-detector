@@ -15,7 +15,6 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: true,
       title: 'CAT AND DOG DETECTOR',
       home: MySplash(),
-
     );
   }
 }

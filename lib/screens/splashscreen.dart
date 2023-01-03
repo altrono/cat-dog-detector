@@ -26,8 +26,9 @@ class _MySplashState extends State<MySplash> {
         ),
       ),
       image: Image.asset('assets/catdog.png'),
-      backgroundColor: Color(0xFFF0ECCF),
+      backgroundColor: Color(0xaa000000),
       loaderColor: Color(0xFFA3BB98),
+      photoSize: 100.0,
     );
   }
 }
